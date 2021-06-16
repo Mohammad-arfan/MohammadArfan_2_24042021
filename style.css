@@ -91,6 +91,19 @@ padding: 0 20px;
   color: tomato;
   transform: scale(1.5);
 }
+.fa-youtube{
+  color: #940202;
+}
+.fa-youtube:hover{
+  color: rgb(214, 0, 214);
+  transform: scale(1.5);
+}
+.fa-instagram{
+  color:#E1306C;
+}
+.fa-twitter{
+color: #0b94f0;
+}
 @media  screen and (max-width:500px) {
   nav {
 
