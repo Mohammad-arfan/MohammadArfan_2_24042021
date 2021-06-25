@@ -6,7 +6,7 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: url("/images/Alfie.jpg");
+  background: url("./images/Alfie.jpg");
   background-size: cover;
 }
 /*# sourceMappingURL=home.css.map */
