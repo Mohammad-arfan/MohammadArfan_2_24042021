@@ -2,9 +2,11 @@
 @import 'home';
 @import 'menu';
 @import 'about';
-@import 'projects';
 @import 'contact';
 @import 'responsive';
+@import 'projects';
+
+
 body{
     background: $primary-color;
     color:set-text-color($primary-color);
